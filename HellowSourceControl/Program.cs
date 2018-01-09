@@ -13,7 +13,7 @@ namespace HellowSourceControl
             Console.WriteLine("Enter a greeting");
             string greeting = Console.ReadLine();
             Console.WriteLine(greeting);
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
